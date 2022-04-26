@@ -1,1 +1,1 @@
-# E_Devlet_Uygulamalari_Proje
+     Günümüzde araç artışı sebebiyle problem olan otopark sorununa bir çözüm getirmek için, sürüş esnasında gidilen otoparkların dolu olması sorununa, yaşanan zaman kaybı ve trafik sıkışıklığına direkt olarak çözüm getirmek amacıyla bu proje gerçekleştirilmeye başlandı. Daha sonra projeyi gerçekleştirmek adına kullanılacak olan programlar, yazılımlar, veritabanı araştırmaları yapılarak yol haritası çizilerek proje çalışmalarına başlandı. 
